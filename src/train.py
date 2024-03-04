@@ -6,7 +6,6 @@ import torch
 import torch.nn as nn
 import torch.nn.functional as F
 from torch.distributions import Categorical
-from tqdm import trange
 import gymnasium as gym
 import pickle as pkl
 import plotly.graph_objects as go
